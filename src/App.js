@@ -31,7 +31,7 @@ class App extends Component{
     super();
     this.state={
       monsters: [],
-      searchFiled: ''
+      searchFiled: '',
     };
   }
   componentDidMount(){
